@@ -1,0 +1,47 @@
+
+
+.card img {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+.card {
+    height: 100%;
+    background: linear-gradient(skyblue, white);
+    transition: 0.4s;
+    border: none;
+    border-radius: 0;
+    border-bottom: 3px solid;
+    border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+}
+
+.card:hover {
+    box-shadow: 10px 10px 5px #aaaaaa;
+
+}
+
+.card-body .card-title {
+    color: rgba(14, 52, 25, 0.92);
+    font-weight: normal;
+    padding: 3px 0;
+}
+
+.card-body button {
+    margin-top: 10px;
+}
+.card span{
+    display: inline-block;
+    background: linear-gradient(skyblue, white);
+    margin-right: 15px;
+    width: 35px;
+    height: 35px;
+    font-size: 25px;
+    line-height: 35px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}

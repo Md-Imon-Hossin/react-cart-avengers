@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "Anthony Russo",
+      "role": "Director",
+      "age": "33",
+      "country": "USA",
+      "img" : "https://i.ibb.co/2FJxgHB/Anthony-Russo-headshot-scaled-e1650048710230.jpg",
+      "salary": 990000
+    },
+    {
+      "id": 2,
+      "name": "Stan Lee",
+      "role": "Story Writer",
+      "age": "35",
+      "country": "Australia",
+      "img" : "https://i.ibb.co/4gph4W5/https-cdn-cnn-com-cnnnext-dam-assets-181112135910-06-stan-lee-lead-image.jpg",
+      "salary": 850900
+    },
+    {
+      "id": 3,
+      "name": "Alan Silvestri",
+      "role": "Music Director",
+      "age": "42",
+      "country": "Switzerland",
+      "img" : "https://i.ibb.co/NZ5zMJ6/64b34a43339b4a58ca9cf57b0d6ac6cb.webp",
+      "salary": 580008
+    },
+    {
+      "id": 4,
+      "name": "Jeffrey Ford",
+      "role": "Director",
+      "age": "26",
+      "img" : "https://i.ibb.co/zPJXx0X/d1ce1d-fc1b5e63258443479181d342fb271b0f-mv2.jpg",
+      "country": "Canada",
+      "salary": 856698
+    },
+    {
+      "id": 5,
+      "name": "Robert Downey Jr",
+      "role": "Director",
+      "age": "28",
+      "img" : "https://i.ibb.co/X2kDgC6/Robert-Downey.jpg",
+      "country": "Brazil",
+      "salary": 412698
+    },
+    {
+      "id": 6,
+      "name": "Chris Evanas",
+      "role": "Director",
+      "age": "41",
+      "img" : "https://i.ibb.co/Hzq4Lr6/Chris-Evans-birthday-1623570661924-1623570669150.webp",
+      "country": "Spain",
+      "salary": 884433
+    },
+    {
+      "id": 7,
+      "name": "Dave Bautista",
+      "role": "Actor",
+      "age": "29",
+      "img" : "https://i.ibb.co/yQCYCjZ/gettyimages-1209967184-612x612.jpg",
+      "country": "Spain",
+      "salary": 621547
+    },
+    {
+      "id": 8,
+      "name": "Jeremy Renner",
+      "role": "Actress",
+      "age": "55",
+      "img" : "https://i.ibb.co/sFcjYjW/jeremy-renner.jpg",
+      "country": "Netherland",
+      "salary": 742671
+    },
+    {
+      "id": 9,
+      "name": "Karen Gillan",
+      "role": "Actress",
+      "age": "35",
+      "img" : "https://i.ibb.co/7CCjHnb/jpg.jpg",
+      "country": "Japan",
+      "salary": 121344
+    }
+
+  ]

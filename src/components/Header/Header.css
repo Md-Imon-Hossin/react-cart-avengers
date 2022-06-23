@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+     width: 70%;
+     margin: auto;
+     padding: 20px 10px;
+     border-radius: 0 0 10px 10px;
+}
+p{
+    margin: 10px 0;
+}
+h2,h3,p{
+    color: rgba(14, 52, 25, 0.92);
+}
